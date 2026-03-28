@@ -18,7 +18,7 @@ main()
         }
     }
     lcm=(n1*n2)/gcd;
-    cout<<"GCD of "<<n1 <<" and "<< n2 <<"is: "<<gcd<<endl;
+    cout<<"GCD of "<<n1 <<" and "<< n2 <<" is: "<<gcd<<endl;
     cout<<"LCM of "<<n1 <<" and "<<n2<<" is: "<<lcm;
 
     }
